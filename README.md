@@ -309,4 +309,7 @@ PHP_Laravel12_Flash
 ---
 
 Your PHP_Laravel12_Flash Project is now ready!
+<<<<<<< HEAD
 
+=======
+>>>>>>> development
